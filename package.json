@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-swipeable": "^7.0.1",
+    "react-swipeable-views": "^0.14.0"
+  }
+}
